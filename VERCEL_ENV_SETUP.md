@@ -12,7 +12,6 @@
 
 #### Variable 1: GEMINI_API_KEY
 - **Name**: `GEMINI_API_KEY`
-- **Value**: `AIzaSyCfw2bOYxdQn-ukt7N5XDqEFP8PIyh6eUI`
 - **Environments**: ✓ Production ✓ Preview ✓ Development
 - Click **Save**
 
